@@ -1,0 +1,1 @@
+call %BATCHDIR%mvn-scripts\pom-parser.cmd %BATCHDIR% master-update

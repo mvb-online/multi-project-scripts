@@ -1,0 +1,1 @@
+git clone ssh://xxxx/var/git/repos/%1.git
